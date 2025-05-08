@@ -1,0 +1,8 @@
+README.md
+setup.py
+cx_cuda.egg-info/PKG-INFO
+cx_cuda.egg-info/SOURCES.txt
+cx_cuda.egg-info/dependency_links.txt
+cx_cuda.egg-info/top_level.txt
+src/binding.cpp
+src/kernel/kernels.cu

@@ -1,0 +1,4 @@
+# ninja log v5
+7	3013	1746700457028801000	/home/bingxing2/home/scx8an6/congxing2025/Github/Pytorch+Cuda/build/temp.linux-aarch64-cpython-312/src/kernel/kernels.o	522c24692a8aeafb
+6	33535	1746700487526120000	/home/bingxing2/home/scx8an6/congxing2025/Github/Pytorch+Cuda/build/temp.linux-aarch64-cpython-312/src/kernel/binding.o	d80dcc3042403d96
+24	29826	1746701020316082000	/home/bingxing2/home/scx8an6/congxing2025/Github/Pytorch+Cuda/build/temp.linux-aarch64-cpython-312/src/binding.o	f887c50e78893941
